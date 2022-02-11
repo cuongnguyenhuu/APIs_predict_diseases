@@ -13,7 +13,7 @@ Keras-Preprocessing==1.1.0
 Markdown==3.1.1
 numpy==1.17.1
 opencv-python==4.1.0.25
-protobuf==3.9.1
+protobuf==3.15.0
 psycopg2==2.7.3.2
 pytz==2017.3
 six==1.12.0
